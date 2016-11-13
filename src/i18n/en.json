@@ -1,0 +1,14 @@
+{
+  "BUTTON_START": "Start",
+  "BUTTON_STOP": "Stop",
+  "BUTTON_RESET": "Reset",
+  "MODE_POMODORO": "Pomodoro",
+  "MODE_SHORT_BREAK": "Short break",
+  "MODE_LONG_BREAK": "Long break",
+  "NOTIFY_POMODORO": "Your Pomodoro is over!",
+  "NOTIFY_SHORT_BREAK": "Your short break is over!",
+  "NOTIFY_LONG_BREAK": "Your long break is over!",
+  "CLEMENTIME": "clementime",
+  "CLEMENTIME_URL": "https://clementime.com/en/",
+  "BUTTON_QUIT": "Quit"
+}
